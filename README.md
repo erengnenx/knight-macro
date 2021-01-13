@@ -1,7 +1,6 @@
-# knight-macro
-Knight online w python
+# .......Basic Macro for Knight Online .......
 
- .......Basic Macro for Knight Online .......
+
  
 Functions
 -----------
